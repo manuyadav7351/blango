@@ -1,0 +1,2 @@
+# blango
+blog + django = blango
