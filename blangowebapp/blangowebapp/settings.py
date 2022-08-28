@@ -150,4 +150,4 @@ class Dev(Configuration):
 
 class Prod(Dev):
   DEBUG = False
-  #SECRET_KEY = values.SecretValue("SECRET_KEY")
+  #SECRET_KEY = values.SecretValue()
